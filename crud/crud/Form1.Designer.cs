@@ -1,6 +1,6 @@
 ﻿namespace crud
 {
-    partial class frmPrincipal
+    partial class formprincipal
     {
         /// <summary>
         /// Required designer variable.
@@ -371,13 +371,13 @@
             this.label10.TabIndex = 16;
             this.label10.Text = "Descrição:";
             // 
-            // frmPrincipal
+            // formprincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(517, 286);
             this.Controls.Add(this.tabControl1);
-            this.Name = "frmPrincipal";
+            this.Name = "formprincipal";
             this.Text = "CRUD";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
