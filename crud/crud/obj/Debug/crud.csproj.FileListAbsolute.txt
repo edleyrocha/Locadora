@@ -20,3 +20,6 @@ C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.Deletar
 C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.formprincipal.resources
 C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.Properties.Resources.resources
 C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+D:\Projetos\Locadora\crud\crud\bin\Debug\crud.exe.config
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.exe
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.pdb
