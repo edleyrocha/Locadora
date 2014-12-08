@@ -9,3 +9,14 @@ c:\users\diego.araujo\documents\visual studio 2012\Projects\crud\crud\obj\Debug\
 c:\users\diego.araujo\documents\visual studio 2012\Projects\crud\crud\obj\Debug\crud.pdb
 C:\Users\diego.araujo\documents\visual studio 2012\Projects\crud\crud\obj\Debug\crud.AlterarRegistro.resources
 C:\Users\diego.araujo\documents\visual studio 2012\Projects\crud\crud\obj\Debug\crud.DeletarRegistros.resources
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\bin\Debug\crud.exe.config
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.exe
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.pdb
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\bin\Debug\crud.exe
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\bin\Debug\crud.pdb
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.AlterarRegistro.resources
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.DeletarRegistros.resources
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.formprincipal.resources
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
