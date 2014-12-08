@@ -23,3 +23,14 @@ C:\Users\diego.araujo\Documents\GitHub\Locadora\crud\crud\obj\Debug\crud.csproj.
 D:\Projetos\Locadora\crud\crud\bin\Debug\crud.exe.config
 D:\Projetos\Locadora\crud\crud\obj\Debug\crud.exe
 D:\Projetos\Locadora\crud\crud\obj\Debug\crud.pdb
+<<<<<<< HEAD
+=======
+D:\Projetos\Locadora\crud\crud\bin\Debug\crud.exe
+D:\Projetos\Locadora\crud\crud\bin\Debug\crud.pdb
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.AlterarRegistro.resources
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.DeletarRegistros.resources
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.frmPrincipal.resources
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.Properties.Resources.resources
+D:\Projetos\Locadora\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+>>>>>>> parent of 55d7156... Revert "Update Nome form 16:31 08/12/2014"
